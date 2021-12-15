@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MARKANDEY SHARMA</h1>
+# <div align="center"> Hello <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="25px">, I'm Markandey Sharma, a front-end  developer 👨‍💻 🚀</div>
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
 <h3 align="center">A passionate frontend developer from India</h3>
