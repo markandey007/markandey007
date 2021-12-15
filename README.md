@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/markandey_sharma009/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://www.hackerrank.com/2020b0101083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2020b0101083" height="30" width="40" /></a>
+  
 </div>  
 <br/>
 
