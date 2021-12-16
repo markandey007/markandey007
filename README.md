@@ -47,4 +47,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markandey007&show_icons=true&locale=en" alt="markandey007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markandey007&" alt="markandey007" /></p
+  ![MARKANDEY SHARMA GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jwalapc&theme=rogue&hide_border=true&area=true)
+
+---
+<p align="center">
+   <br>
+   <i>“Technology is best when it brings people together.”</i>
+   <br>
+   <i>– Matt M
   
