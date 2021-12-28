@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markandey007" alt="markandey007" /></a> </p>
 
-- 💬 Ask me about **html css and js**
+- 💬 Ask me about **html css and js and bootstrap**
 
 - 📫 How to reach me **markandey128@gmail.com**
 
