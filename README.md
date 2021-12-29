@@ -19,7 +19,7 @@
 
 
  ## Connect with me 🚀
-
+---![pro](https://user-images.githubusercontent.com/87578584/147690692-9f963f6c-079b-411b-a17c-31395ed1bcf6.gif)
 <div align="center">
 <a href="https://github.com/markandey007" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,7 +49,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markandey007&" alt="markandey007" /></p
   ![MARKANDEY SHARMA GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jwalapc&theme=rogue&hide_border=true&area=true)
 
----![pro](https://user-images.githubusercontent.com/87578584/147690692-9f963f6c-079b-411b-a17c-31395ed1bcf6.gif)
+
 
 <p align="center">
    <br>
