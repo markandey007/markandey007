@@ -51,9 +51,9 @@
 
 
 
-<p align="center">
+<p> align="center">
    <br>
    <i>“Technology is best when it brings people together.”</i>
    <br>
    <i>– Matt M
-  
+     </p>
