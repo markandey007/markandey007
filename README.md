@@ -51,7 +51,7 @@
 
 
 
-<p> align="center">
+<p> 
    <br>
    <i>“Technology is best when it brings people together.”</i>
    <br>
