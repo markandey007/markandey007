@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fl370h0a8anc6a5enftbubsgp&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="left">Connect with me:</h3>
